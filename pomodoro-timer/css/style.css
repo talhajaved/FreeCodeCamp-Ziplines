@@ -1,0 +1,41 @@
+body {
+  background: url(hhttp://vignette4.wikia.nocookie.net/pjmidearthfilms/images/c/cb/Light-grey-background-pattern-i1-1024x682.jpg/revision/latest?cb=20150507060301) fixed center;
+}
+
+.row-centered {
+  text-align: center;
+}
+
+.col-centered {
+  display: inline-block;
+  float: none;
+  text-align: center;
+}
+
+#title {
+  margin-bottom: 40px;
+  margin-top: 70px;
+  font-size:  5em;
+  font-family: Trebuchet MS;
+  font-weight: bold;
+}
+
+#timer-heading {
+  font-size: 7em;
+  display: inline-block;
+  font-family: Trebuchet MS;
+  font-weight: bold;
+  vertical-align: middle;
+}
+
+#flipclock-timer {
+  display:none
+}
+
+.btn-signs {
+  font-size: 2.5em;
+  font-family: Trebuchet MS;
+  font-weight: bold;
+  padding:0px;
+}
+

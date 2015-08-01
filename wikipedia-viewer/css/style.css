@@ -1,0 +1,98 @@
+body {
+  background: #555 url(http://turbo.designwoop.com/uploads/2012/03/19_free_subtle_textures_3px_tile.jpg);
+  margin: 0 auto;
+  padding: 0;
+  color: #7f7f7f;
+  font-family: Trebuchet MS;
+  width: 100%;
+}
+
+h1 {
+  margin-top: 160px;
+  margin-bottom: 0px;
+  color: white;
+  font-size: 4em;
+  font-family: Trebuchet MS;
+  font-weight: bold;
+}
+
+#main-container {
+  padding: 40px;
+}
+
+#random-page-url {
+  display: none
+}
+
+#search {
+  margin: 0 auto;
+  width: 325px;
+  margin-bottom: 20px;
+}
+
+#search input {
+  background: none repeat scroll 0 0 #fff;
+  border: 0 none;
+  color: #7F7F7F;
+  float: left;
+  font: 1.3em 'Helvetica', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+  height: 40px;
+  margin: 0;
+  padding: 10px;
+  transition: background 0.3s ease-in-out 0s;
+  width: 87.7%;
+}
+
+#search button {
+  background: url("http://s13.postimg.org/z26ildl37/search.png") no-repeat scroll center center;
+  color: #fff;
+  background-color: #337ab7;
+  border-color: #2e6da4;
+  cursor: pointer;
+  height: 40px;
+  transition: background 0.3s ease-in-out 0s;
+  width: 40px;
+  border: none;
+}
+
+#search button:hover {
+  color: #fff;
+  background-color: #286090;
+  border-color: #204d74;
+}
+
+.row-centered {
+  text-align: center;
+}
+
+.col-centered {
+  display: inline-block;
+  float: none;
+  text-align: center;
+}
+
+.btn-sharp {
+  border-radius: 0;
+  font-size: 1.1em;
+  height: 40px;
+}
+
+#results-container {
+  padding: 40px;
+}
+
+.panel-custom:hover {
+  color: #fff;
+  background-color: #B2B2B2;
+  border-color: #2e6da4;
+}
+
+.custom-box {
+  margin: 0 auto;
+}
+
+.content {
+position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}

@@ -1,0 +1,47 @@
+body {
+  background-color: grey;
+  background-image: url("http://defwalls.com/wallpapers-n/black-minimalistic-dark-pattern-wall-textures-silver-_1464-36.jpg");
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  margin-top: 5%;
+  margin-bottom: 0px;
+  color: white;
+  font-size: 4.5em;
+  font-family: Trebuchet MS;
+  font-weight: bold;
+}
+
+.main-container {
+  padding: 20px 40px;
+  width: 100%;
+}
+
+.p {
+  text-align: center;
+}
+
+.upvotes {
+  float: right;
+}
+
+.comments {
+  float: left;
+}
+
+.grid-item {
+  margin-bottom: 10px;
+}
+
+.authorUrl {
+  display: inline;
+  align: bottom;
+}
+
+.thumbnail-img {
+  width: 100%;
+}

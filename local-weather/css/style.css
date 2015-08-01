@@ -1,0 +1,84 @@
+
+body.clouds {
+  background: #b3c6e4 url(http://www.esolartech.com/wp-content/uploads/2013/09/sky-cloud-wallpapers-hd-212.jpg) fixed center bottom no-repeat;
+}
+
+body.rain {
+  background: #9eacaf url(http://webneel.com/wallpaper/sites/default/files/images/04-2013/29-rain.1280.jpg) fixed center bottom no-repeat;
+}
+
+body.thunderstorm {
+  background: #9eacaf url(http://www.freewallsource.com/img/2014/8/storm-wallpaper-4399-4643-hd-wallpapers.jpg) fixed center bottom no-repeat;
+}
+
+body.drizzle {
+  background: #8cdafe url(http://wallpoper.com/images/00/31/15/79/glass-raindrops_00311579.jpg) fixed center bottom no-repeat;
+}
+
+body.snow {
+  background: #889986 url(http://www.wallpedes.com/resize/1280x1024/shenandoah/shenandoah-valley-snowfall-wallpaper-hot-hd-snowfall-wallpaper-.jpg) fixed center bottom no-repeat;
+}
+
+body.atmosphere {
+  background: #8cdafe url(http://www.wallpedes.com/resize/1280x1024/misty/misty-weather-and-trees-wallpaper-high-definition-wallpapers-wallpaper-misty-direct-hd-download-for-iphone-ipad-borders-free-naruto-mobile-3d.jpg) fixed center bottom no-repeat;
+}
+
+h1 {
+  margin-top: 5%;
+  color: black;
+  font-size: 4.5em;
+  font-family: Trebuchet MS;
+  font-weight: bold;
+}
+
+#con-1 {
+  width: 500px;
+  font-size: 2.5em;
+  font-family: Trebuchet MS;
+  height: auto;
+  margin: 2% auto;
+  margin-top: 0;
+  background-color: #efefef;
+  padding: 15px;
+  background-color: rgba(224, 224, 224, 0.7);
+  ;
+  border-radius: 20px;
+  color: #000;
+  box-shadow: -10px 10px 20px rgba(100, 100, 100, .8);
+  ;
+}
+
+#con-2 {
+  width: 880px;
+  font-size: 1.5em;
+  font-family: Trebuchet MS;
+  height: auto;
+  margin: 2% auto;
+  margin-top: 3%;
+  background-color: #efefef;
+  padding: 15px 10px;
+  padding-bottom: 3px;
+  background-color: rgba(224, 224, 224, 0.7);
+  ;
+  border-radius: 20px;
+  color: #000;
+  box-shadow: -10px 10px 20px rgba(100, 100, 100, .8);
+  ;
+}
+
+#button-row {
+  width: 10%;
+  display: block;
+  margin: 0 auto;
+}
+/* centered columns styles */
+
+.row-centered {
+  text-align: center;
+}
+
+.col-centered {
+  display: inline-block;
+  float: none;
+  text-align: center;
+}
