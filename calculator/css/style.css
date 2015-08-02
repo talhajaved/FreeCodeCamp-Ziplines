@@ -1,0 +1,89 @@
+@import url(http://fonts.googleapis.com/css?family=Orbitron);
+
+body {
+  background: silver fixed center;
+}
+
+#title {
+  margin-top: 30px;
+  font-size:  5em;
+  font-family: Trebuchet MS;
+  font-weight: bold;
+}
+
+.row-centered {
+  text-align: center;
+}
+
+.col-centered {
+  display: inline-block;
+  text-align: center;
+  padding: 2px;
+}
+
+#calc-container {
+  font-family: 'Orbitron', sans-serif;
+  width: 300px;
+  padding: 10px 25px 25px 25px;
+  margin: 0 auto;
+  margin-top: 20px;
+  background: url(http://images.1iphone5wallpaper.com/Gallery/13_Simple/1-iPhone-5-Wallpaper-Simple-Gray-Matte.jpg) center;
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px
+}
+
+#screen-row {
+  text-align: right;
+  width: 100%;
+  background-color: #D6D6C2;
+  border-style: solid;
+  border-width: 5px;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom:15px;
+  padding: 10px 20px 0px 20px;
+}
+
+#display-screen {
+  text-align: right;
+  font-size: 2em;
+  padding:0px;
+  margin:0;
+}
+
+#memory-screen {
+  text-align: left;
+  font-size: 1.2em;
+  padding:0px;
+  margin:0;
+}
+
+.btn {
+  border-radius: 0;
+  broder-style: groove;
+  border-width: 2px;
+}
+
+.btn:focus {
+  background-color: gray;
+}
+
+.calc-button {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+#clear-button {
+  font-size: 1.48em;
+}
+
+#backspace-button {
+  font-size: 1.48em;
+}
+
+#answer-button {
+  padding-left:0px;
+  padding-right:0px;
+  font-size: 1.48em;
+}
